@@ -8,3 +8,14 @@ port
 
 secret(Credentials)
 7vQ1mpsyX_HR5QhN8OD3U3ttc24uY29t
+
+another working proxy adress
+
+Host name
+65.108.158.35
+
+port
+993
+
+credintials
+ee4370f8df23f2bad337dfdd803bea9cf070727866692e7363726575676e6575676e2e6575
