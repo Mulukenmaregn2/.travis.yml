@@ -1,7 +1,8 @@
 MTPROTO
 Socket adress
+(1)
 server(Hostname)
-cheha-ba-jan-khod-door-az-rokh-janan-khod-kardam.sbs
+Raz.bani-adam-aazaye-yek-digarand.homes
 
 port
 443
@@ -11,6 +12,7 @@ secret(Credentials)
 
 another working proxy adress
 
+(2)
 Host name
 65.108.158.35
 
@@ -19,3 +21,13 @@ port
 
 credintials
 ee4370f8df23f2bad337dfdd803bea9cf070727866692e7363726575676e6575676e2e6575
+
+(3)
+Host name
+Crfghjx.dynu.com.
+
+port
+443
+
+credintials
+7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pbw==
